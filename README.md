@@ -1,4 +1,6 @@
-[![MasterHead](![image](https://user-images.githubusercontent.com/77288746/190957643-a85c5f8c-6418-4506-8321-1598e36023e9.png))](https://adesteban.io)
+<p align="center">
+    <img src="https://github.com/abhinavkashyap061/abhinavkashyap061/blob/main/readme-assets/github-banner.gif?raw=true" alt="Abhinav's GitHub Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm John Adrian Esteban</h1>
 <h3 align="center">A passionate front-end developer from Philippines</h3>
 <img align=right width=500 src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
