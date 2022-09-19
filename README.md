@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/john-adrian-esteban">LinkedIn</a> •
 <a href="https://stackoverflow.com/users/20030867/john-adrian-esteban">StackOverflow</a>
 
-### 📝 About
+### 👨🏻‍💻 About
 - 📝 I’m currently a fourth year student pursuing BS in Information Technology 
 
 - 🌱 I’m currently learning **React Native and Laravel**
@@ -21,4 +21,6 @@
 
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adesteban&show_icons=true&theme=tokyonight&locale=en" alt="adesteban" /></p>
+<p align="center">&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=adesteban&show_icons=true&theme=tokyonight&locale=en" alt="adesteban" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adesteban&theme=dark" alt="adesteban" /></p>
